@@ -1,0 +1,9 @@
+C:\Git\BibliaOnline\BibliaCriarDB\BibliaCriarDB\bin\Debug\x86\sqlite3.dll
+C:\Git\BibliaOnline\BibliaCriarDB\BibliaCriarDB\bin\Debug\x64\sqlite3.dll
+C:\Git\BibliaOnline\BibliaCriarDB\BibliaCriarDB\bin\Debug\BibliaCriarDB.exe.config
+C:\Git\BibliaOnline\BibliaCriarDB\BibliaCriarDB\bin\Debug\BibliaCriarDB.exe
+C:\Git\BibliaOnline\BibliaCriarDB\BibliaCriarDB\bin\Debug\BibliaCriarDB.pdb
+C:\Git\BibliaOnline\BibliaCriarDB\BibliaCriarDB\obj\Debug\BibliaCriarDB.csprojAssemblyReference.cache
+C:\Git\BibliaOnline\BibliaCriarDB\BibliaCriarDB\obj\Debug\BibliaCriarDB.csproj.CoreCompileInputs.cache
+C:\Git\BibliaOnline\BibliaCriarDB\BibliaCriarDB\obj\Debug\BibliaCriarDB.exe
+C:\Git\BibliaOnline\BibliaCriarDB\BibliaCriarDB\obj\Debug\BibliaCriarDB.pdb

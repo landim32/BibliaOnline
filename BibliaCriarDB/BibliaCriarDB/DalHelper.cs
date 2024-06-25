@@ -11,7 +11,7 @@ namespace BibliaCriarDB
     {
         private const string SQLITE_FILENAME = @"c:\Git\BibliaOnline\Biblia.sqlite";
 
-        private SQLiteConnection DbConnection()
+        public SQLiteConnection DbConnection()
         {
             var cnn = new SQLiteConnection("Data Source=" + SQLITE_FILENAME + "; Version=3;");
             cnn.Open();
@@ -22,5 +22,7 @@ namespace BibliaCriarDB
         {
             SQLiteConnection.CreateFile(SQLITE_FILENAME);
         }
+
+
     }
 }

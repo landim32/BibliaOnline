@@ -1,0 +1,14 @@
+C:\Git\BibliaOnline\BibleConsole\BibleConsole\bin\Debug\netcoreapp2.1\BibleConsole.deps.json
+C:\Git\BibliaOnline\BibleConsole\BibleConsole\bin\Debug\netcoreapp2.1\BibleConsole.runtimeconfig.json
+C:\Git\BibliaOnline\BibleConsole\BibleConsole\bin\Debug\netcoreapp2.1\BibleConsole.runtimeconfig.dev.json
+C:\Git\BibliaOnline\BibleConsole\BibleConsole\bin\Debug\netcoreapp2.1\BibleConsole.dll
+C:\Git\BibliaOnline\BibleConsole\BibleConsole\bin\Debug\netcoreapp2.1\BibleConsole.pdb
+C:\Git\BibliaOnline\BibleConsole\BibleConsole\bin\Debug\netcoreapp2.1\BibleBLL.dll
+C:\Git\BibliaOnline\BibleConsole\BibleConsole\bin\Debug\netcoreapp2.1\BibleBLL.pdb
+C:\Git\BibliaOnline\BibleConsole\BibleConsole\obj\Debug\netcoreapp2.1\BibleConsole.csprojAssemblyReference.cache
+C:\Git\BibliaOnline\BibleConsole\BibleConsole\obj\Debug\netcoreapp2.1\BibleConsole.csproj.CoreCompileInputs.cache
+C:\Git\BibliaOnline\BibleConsole\BibleConsole\obj\Debug\netcoreapp2.1\BibleConsole.AssemblyInfoInputs.cache
+C:\Git\BibliaOnline\BibleConsole\BibleConsole\obj\Debug\netcoreapp2.1\BibleConsole.AssemblyInfo.cs
+C:\Git\BibliaOnline\BibleConsole\BibleConsole\obj\Debug\netcoreapp2.1\BibleConsole.csproj.CopyComplete
+C:\Git\BibliaOnline\BibleConsole\BibleConsole\obj\Debug\netcoreapp2.1\BibleConsole.dll
+C:\Git\BibliaOnline\BibleConsole\BibleConsole\obj\Debug\netcoreapp2.1\BibleConsole.pdb

@@ -1,0 +1,9 @@
+C:\Git\BibliaOnline\BibleBLL\bin\Debug\netcoreapp2.1\BibleBLL.deps.json
+C:\Git\BibliaOnline\BibleBLL\bin\Debug\netcoreapp2.1\BibleBLL.dll
+C:\Git\BibliaOnline\BibleBLL\bin\Debug\netcoreapp2.1\BibleBLL.pdb
+C:\Git\BibliaOnline\BibleBLL\obj\Debug\netcoreapp2.1\BibleBLL.csprojAssemblyReference.cache
+C:\Git\BibliaOnline\BibleBLL\obj\Debug\netcoreapp2.1\BibleBLL.csproj.CoreCompileInputs.cache
+C:\Git\BibliaOnline\BibleBLL\obj\Debug\netcoreapp2.1\BibleBLL.AssemblyInfoInputs.cache
+C:\Git\BibliaOnline\BibleBLL\obj\Debug\netcoreapp2.1\BibleBLL.AssemblyInfo.cs
+C:\Git\BibliaOnline\BibleBLL\obj\Debug\netcoreapp2.1\BibleBLL.dll
+C:\Git\BibliaOnline\BibleBLL\obj\Debug\netcoreapp2.1\BibleBLL.pdb

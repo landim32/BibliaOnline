@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.34930.48
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BibleConsole", "BibleConsole\BibleConsole.csproj", "{945EEC1D-5051-4900-A219-98A6D362E7DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BibleBLL", "..\BibleBLL\BibleBLL.csproj", "{0DAC0B2C-E7CB-4308-BA79-805EEB6A645B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{945EEC1D-5051-4900-A219-98A6D362E7DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{945EEC1D-5051-4900-A219-98A6D362E7DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{945EEC1D-5051-4900-A219-98A6D362E7DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{945EEC1D-5051-4900-A219-98A6D362E7DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DAC0B2C-E7CB-4308-BA79-805EEB6A645B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DAC0B2C-E7CB-4308-BA79-805EEB6A645B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DAC0B2C-E7CB-4308-BA79-805EEB6A645B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DAC0B2C-E7CB-4308-BA79-805EEB6A645B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA4FD1C5-6191-4F3C-9250-F1E18931630D}
+	EndGlobalSection
+EndGlobal
